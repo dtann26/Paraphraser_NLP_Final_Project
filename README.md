@@ -9,10 +9,10 @@ Features
 Metrics
 The model has been evaluated using:
 
-BLEU: N-gram precision metric
-ROUGE: Recall-oriented metric for summarization/paraphrasing
-METEOR: Metric considering stemming and synonyms
-ParaScore: Semantic similarity metric based on BERT embeddings
+- BLEU: N-gram precision metric
+- ROUGE: Recall-oriented metric for summarization/paraphrasing
+- METEOR: Metric considering stemming and synonyms
+- ParaScore: Semantic similarity metric based on BERT embeddings
 
 Finished Model (5 Epochs):
 https://drive.google.com/drive/folders/1WNqttEYeKaS61Ng6TOWso1Rs4wsoUJQ5?usp=sharing
