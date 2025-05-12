@@ -6,6 +6,7 @@ Features
 - Evaluation using multiple metrics: BLEU, ROUGE, METEOR, and ParaScore
 - Web interface for interactive paraphrasing
 
+<br>
 Metrics
 The model has been evaluated using:
 
