@@ -1,5 +1,3 @@
-(Still need fixing)
-
 Paraphraser Model <br>
 This project implements a T5-based text paraphrasing model trained on the Quora Question Pairs and PAWS datasets. The model takes an input text and generates semantically equivalent variations with different wording.
 
